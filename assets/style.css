@@ -29,7 +29,7 @@ body {
 .btn{
     color: white;
     margin-top:20%;
-    margin-left:43%;
+    margin-left:45%;
 }
 .dropdown-menu{
 
@@ -39,12 +39,12 @@ background-size:cover;
 color:white;
 }
 /*Portfolio*/
-#portfolio {
-    background-color: #ffffff;
+/*#portfolio {
+    
     width: 650px;
     height: 875px;
-    margin-left: 400px;
-    margin-bottom: 40px;
+    margin-left: 30%;
+    margin-bottom: 10px;
     border-style: solid;
     border-width: 1px;
     border-color: #dddddd;
@@ -116,7 +116,7 @@ color:white;
     margin-top: 54px;
     margin-left: 30px;
     float: left;
-   }
+   }/*
 
    /*contact */
    /* 4.0 Contact */
@@ -125,7 +125,7 @@ color:white;
     width: 650px;
     height: 615px;
     margin-left: 30%;
-    margin-bottom: 40px;
+    margin-bottom: 5px;
     border-style: solid;
     border-width: 3px;
     border-color: #dddddd;
@@ -139,7 +139,7 @@ color:white;
     margin-left: 50px;	
    }
    .heavy {
-     border-top: 3px solid #cccccc;
+     border-top: 3px solid white;
      width: 600px;
      margin-top: 3px;
      margin-left: 12px;
@@ -185,7 +185,7 @@ color:white;
     height: 40px;
     margin-top: 20px;
     margin-left: 28px;
-   background-color: #4aaaa5;
+   background-color:purpl;
     border: none;
     color: #ffffff;
     text-decoration: none;
@@ -193,5 +193,31 @@ color:white;
    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 14px;
    }
-  
-  
+   .top{
+     color:white;
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+   }
+
+
+   .carousel-inner{
+     margin-top: 10%;
+     width: 50%;
+     height: 50%;
+     
+     }
+ 
+ 
+img.switch-image{
+ display: block;
+ margin: 0 auto;
+ 
+}
+h4 {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-size: 20px;
+  padding-top: 18px;
+  text-align: center; 
+  color:white
+
+}
