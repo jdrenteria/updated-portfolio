@@ -1,6 +1,23 @@
+@media screen and (max-width: 1060px) {
+  #primary { width:67%; }
+  #secondary { width:30%; margin-left:3%;}  
+}
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+  #primary { width:100%; }
+  #secondary { width:100%; margin:0; border:none; }
+}
+
 body { 
     background-image: url(../images/238469-full_keep-calm-and-keep-coding-4k-hd-desktop-wallpaper-for-4k-ultra-hd.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+
+    
+  
   }
 .main{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -107,7 +124,7 @@ color:white;
 
     width: 650px;
     height: 615px;
-    margin-left: 400px;
+    margin-left: 30%;
     margin-bottom: 40px;
     border-style: solid;
     border-width: 3px;
