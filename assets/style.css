@@ -69,9 +69,16 @@ h4 {
   color:white
 
 }
+#craving-p{
+  background-color:#6969698e;
+
+}
 
 
 
+
+
+/* contact */
 
 
 
@@ -138,7 +145,7 @@ p {
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
-	margin: 0px;
+	
 }
 
 ul, li {
@@ -348,6 +355,7 @@ textarea.input100 {
   justify-content: center;
   padding-top: 10px;
   padding-bottom: 43px;
+  text-align: center;
 }
 
 .contact100-form-btn {
